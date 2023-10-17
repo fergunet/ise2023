@@ -1,7 +1,7 @@
 import blabla
 
 def hola():
-	return "hola"
+	return "holiiiiii"
 
 def adios():
 	return "adios"
